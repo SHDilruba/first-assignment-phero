@@ -1,0 +1,151 @@
+body{
+  font-family: 'Albert Sans', sans-serif;
+  margin: 0;
+}
+
+p{
+  font-size: 18px;
+
+}
+.donation-button{ 
+  text-decoration: none;
+  background-image: linear-gradient(orange, red);
+  color: white;
+  font-weight: 700;
+  padding: 10px 20px;
+ border-radius: 5px;
+}
+.top-banner{
+  background-image: url(donation8.jpg);
+  background-repeat: no-repeat; 
+  color:white;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+
+    
+}
+
+#header-content{
+text-align: center;
+padding: 250px 300px;
+}
+
+#input-form{
+  text-align: center;
+  padding: 40px 300px; 
+}
+
+h1{
+  font-size: 70px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  font-weight: 800;
+}
+
+h2{font-size: 40px;}
+
+#footer-item{
+  text-align: center;
+  background-color: black;
+  padding: 40px;
+  color: white;
+}
+
+#footer-font-style{
+  font-family: 'Lobster', cursive;
+}
+
+ 
+.amount-box-item{
+margin-bottom: 30px;
+margin-left: 2%;
+margin-top: 100px;
+text-align: center;
+}
+
+#input-block{
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  margin-bottom:30px;
+  padding: 20px 200px;
+  text-align: center;
+}
+
+#color-amount{
+  margin-top: 5px;
+  margin-left: 25px;
+  padding: 30px;
+  font-size: 30px;
+  color: #ec4706;
+  background-color:  rgb(210, 175, 181);
+ border: 2px solid hsl(17, 92%, 30%); 
+}
+
+#fourth-amount{
+  margin-top: 5px;
+  margin-left: 25px;
+  padding: 30px;
+  font-size: 30px;
+}
+
+#third-amount{
+  margin-top: 5px;
+  margin-left: 25px;
+  padding: 30px;
+  font-size: 30px;  
+}
+#second-amount{
+  margin-top: 5px;
+  margin-left: 25px;
+  padding: 30px;
+  font-size: 30px; 
+}
+
+#first-amount{
+  margin-top: 5px;
+  margin-left: 25px;
+  padding: 30px;
+  font-size: 30px;  
+}
+
+.plan-items{
+  width: 20%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 20px;
+  padding-top: 10px;
+  border-radius: 10px;
+  
+  
+
+}
+ 
+#flexible-container{
+  display: flex;
+  margin-bottom: 100px;
+  margin-left: 20px;
+  width: 100%;
+}  
+
+#off-white-color{
+  background-color: antiquewhite;
+  padding: 40px;
+}
+
+#pink-color{
+  background-color: pink;
+  padding: 40px;
+}
+  
+#yellow-color{
+  background-color:rgb(200, 200, 132);
+  padding: 40px; 
+}
+ 
+#plan-update{
+  position: center;
+  text-align: center;
+  margin-bottom: 100px;
+}
